@@ -1842,14 +1842,22 @@
 			.icon.circle:hover {
 				top: -0.2em;
 			}
+			.icon.circle.fa-instagram {
+				background: #bc2a8d;
+				color: #fff;
+			}
+
+				.icon.circle.fa-instagram:hover {
+					background: #bc2a8d;
+				}
 
 			.icon.circle.fa-twitter {
-				background: #70aecd;
+				background: #1dcaff;
 				color: #fff;
 			}
 
 				.icon.circle.fa-twitter:hover {
-					background: #7fb7d2;
+					background: #1dcaff;
 				}
 
 			.icon.circle.fa-facebook {
